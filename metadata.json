@@ -1,0 +1,6 @@
+{
+  "name": "Saraya Palace — Meknès",
+  "description": "Café, Salon de Thé, Pâtisserie, Glacier & Restaurant à Meknès. Petits déjeuners artisanaux, pâtisseries marocaines et terrasse ensoleillée 7j/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
